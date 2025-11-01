@@ -1,0 +1,60 @@
+{
+  "candyData": [
+    {
+      "candyType": "Snickers",
+      "quantity": 5,
+      "userName": "Alice",
+      "userEmail": "alice@example.com",
+      "timestamp": "2024-10-31T20:00:00Z"
+    },
+    {
+      "candyType": "Reese's",
+      "quantity": 8,
+      "userName": "Alice",
+      "userEmail": "alice@example.com",
+      "timestamp": "2024-10-31T20:05:00Z"
+    },
+    {
+      "candyType": "M&Ms",
+      "quantity": 3,
+      "userName": "Alice",
+      "userEmail": "alice@example.com",
+      "timestamp": "2024-10-31T20:10:00Z"
+    },
+    {
+      "candyType": "Snickers",
+      "quantity": 7,
+      "userName": "Bob",
+      "userEmail": "bob@example.com",
+      "timestamp": "2024-10-31T20:15:00Z"
+    },
+    {
+      "candyType": "Reese's",
+      "quantity": 4,
+      "userName": "Bob",
+      "userEmail": "bob@example.com",
+      "timestamp": "2024-10-31T20:20:00Z"
+    },
+    {
+      "candyType": "Kit Kat",
+      "quantity": 6,
+      "userName": "Bob",
+      "userEmail": "bob@example.com",
+      "timestamp": "2024-10-31T20:25:00Z"
+    },
+    {
+      "candyType": "M&Ms",
+      "quantity": 10,
+      "userName": "Charlie",
+      "userEmail": "charlie@example.com",
+      "timestamp": "2024-10-31T20:30:00Z"
+    },
+    {
+      "candyType": "Kit Kat",
+      "quantity": 2,
+      "userName": "Charlie",
+      "userEmail": "charlie@example.com",
+      "timestamp": "2024-10-31T20:35:00Z"
+    }
+  ]
+}
